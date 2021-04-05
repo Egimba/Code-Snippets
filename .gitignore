@@ -1,5 +1,6 @@
 Scratchpads/
 Video Snippets/
+data/
 *.jpg
 *.png
 .ipynb_checkpoints
